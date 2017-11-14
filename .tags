@@ -1,0 +1,79 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+html	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^<html>$/;"	function	line:2
+head	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^  <head>$/;"	function	line:3
+meta	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^    <meta charset="utf-8">$/;"	function	line:4
+title	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^    <title>JavaScript Calculator<\/title>$/;"	function	line:5
+script	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^    <script src="https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/3.2.1\/jquery.min.js"><\/script>$/;"	function	line:11
+script	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^    <script src=""><\/script>$/;"	function	line:12
+script	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^    <script type="text\/javascript" src="Assets\/index.js"><\/script>$/;"	function	line:15
+link	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^    <link type="text\/css" rel="stylesheet" href="Assets\/style.css">$/;"	function	line:16
+link	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^    <link rel="stylesheet" href="https:\/\/www.w3schools.com\/w3css\/4\/w3.css">$/;"	function	line:17
+link	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^    <link href="https:\/\/fonts.googleapis.com\/css?family=Indie+Flower" rel="stylesheet">$/;"	function	line:18
+body	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^  <body class= "w3-light-gray">$/;"	function	line:23
+div	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^    <div class="w3-container w3-red">$/;"	function	line:25
+h	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^      <h3 class="w3-text-lime w3-padding-small w3-indie-flower">FreeCodeCamp Calculator<\/h3>$/;"	function	line:26
+div	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^      <div class="display">$/;"	function	line:28
+input	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^        <input class="w3-input w3-border w3-round w3-grey" type="text" disabled id="calc">$/;"	function	line:29
+div	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^      <div class="operators w3-padding-large">$/;"	function	line:32
+p	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^        <p>$/;"	function	line:33
+input	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^          <input type="button" class="w3-button w3-circle w3-pink" id="clear-all" onClick="clearAll('val')" value="AC">$/;"	function	line:34
+input	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^          <input type="button" class="w3-button w3-circle w3-pink" id="clear" onClick="clearEntry('val')" value="CE">$/;"	function	line:35
+input	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^          <input type="button" class="w3-button w3-circle w3-grey" id="keys" onClick="clicked(' % ')" value="%">$/;"	function	line:36
+input	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^          <input type="button" class="w3-button w3-circle w3-grey" id="keys" onClick="clicked(' \/ ')" value="\/">$/;"	function	line:37
+p	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^        <p>$/;"	function	line:39
+input	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^          <input type="button" class="w3-button w3-circle w3-dark-grey" id="keys" onClick="clicked('7')" value="7">$/;"	function	line:40
+input	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^          <input type="button" class="w3-button w3-circle w3-dark-grey" id="keys" onClick="clicked('8')" value="8">$/;"	function	line:41
+input	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^          <input type="button" class="w3-button w3-circle w3-dark-grey" id="keys" onClick="clicked('9')" value ="9">$/;"	function	line:42
+input	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^          <input type="button" class="w3-button w3-circle w3-grey" id="keys" onClick="clicked(' * ')" value="*">$/;"	function	line:43
+p	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^        <p>$/;"	function	line:45
+input	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^          <input type="button" class="w3-button w3-circle w3-dark-grey" id="keys" onClick="clicked('4')" value="4">$/;"	function	line:46
+input	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^          <input type="button" class="w3-button w3-circle w3-dark-grey" id="keys" onClick="clicked('5')" value="5">$/;"	function	line:47
+input	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^          <input type="button" class="w3-button w3-circle w3-dark-grey" id="keys" onClick="clicked('6')" value="6">$/;"	function	line:48
+input	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^          <input type="button" class="w3-button w3-circle w3-grey" id="keys" onClick="clicked(' - ')" value="-">$/;"	function	line:49
+p	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^        <p>$/;"	function	line:51
+input	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^          <input type="button" class="w3-button w3-circle w3-dark-grey" id="keys" onClick="clicked('1')" value="1">$/;"	function	line:52
+input	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^          <input type="button" class="w3-button w3-circle w3-dark-grey" id="keys" onClick="clicked('2')" value="2">$/;"	function	line:53
+input	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^          <input type="button" class="w3-button w3-circle w3-dark-grey" id="keys" onClick="clicked('3')" value="3">$/;"	function	line:54
+input	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^          <input type="button" class="w3-button w3-circle w3-grey" id="keys" onClick="clicked(' + ')" value="+">$/;"	function	line:55
+p	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^        <p>$/;"	function	line:57
+input	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^          <input type="button" class="w3-button w3-circle w3-dark-grey" id="keys" onClick="clicked('7')" value="0">$/;"	function	line:58
+input	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^          <input type="button" class="w3-button w3-circle w3-dark-grey" id="keys" onClick="clicked('.')" value=".">$/;"	function	line:59
+input	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^          <input type="button" class="w3-button w3-round-large w3-lime" id="result" onClick="showResult()" value="=">$/;"	function	line:60
+div	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^    <div class= "w3-container w3-text-dark-grey w3-indie-flower">$/;"	function	line:65
+p	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^      <p id="copyright"> Copyright © Manon Jacquin 2017. All Rights Reserved. <\/p>$/;"	function	line:66
+script	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^    <script type="text\/javascript" src="Assets\/index.js"><\/script>$/;"	function	line:69
+script	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/index.html	/^    <script type="text\/javascript" src="https:\/\/maxcdn.bootstrapcdn.com\/bootstrap\/3.3.7\/js\/bootstrap.min.js"><\/script>$/;"	function	line:70
+Author info	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/README.md	/^## Author info$/;"	function	line:1
+Name	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/README.md	/^#### Name$/;"	function	line:2
+Who am I?	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/README.md	/^#### Who am I?$/;"	function	line:4
+How to reach me?	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/README.md	/^#### How to reach me?$/;"	function	line:6
+Project overview	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/README.md	/^## Project overview$/;"	function	line:9
+JavaScript Calculator	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/README.md	/^### JavaScript Calculator$/;"	function	line:11
+User Story	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/README.md	/^#### User Story$/;"	function	line:12
+How?	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/README.md	/^#### How?$/;"	function	line:21
+Code	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/README.md	/^### Code$/;"	function	line:25
+How to run the program	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/README.md	/^## How to run the program$/;"	function	line:36
+Using CodePen.io	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/README.md	/^#### Using CodePen.io$/;"	function	line:37
+clicked	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/Assets/index.js	/^function clicked(val){$/;"	function	line:3
+clicked	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/Assets/index.js	/^function clicked(val){$/;"	function	line:3
+clearAll	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/Assets/index.js	/^function clearAll(val){$/;"	function	line:8
+clearAll	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/Assets/index.js	/^function clearAll(val){$/;"	function	line:8
+clearEntry	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/Assets/index.js	/^function clearEntry(val){$/;"	function	line:13
+clearEntry	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/Assets/index.js	/^function clearEntry(val){$/;"	function	line:13
+clear	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/Assets/index.js	/^var clear = function(val) {$/;"	function	line:24
+clear	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/Assets/index.js	/^var clear = function(val) {$/;"	function	line:24
+showResult	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/Assets/index.js	/^function showResult(){$/;"	function	line:29
+showResult	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/Assets/index.js	/^function showResult(){$/;"	function	line:29
+.w3-container	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/Assets/style.css	/^.w3-container {$/;"	function	line:1
+h3	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/Assets/style.css	/^h3 {$/;"	function	line:11
+.w3-indie-flower	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/Assets/style.css	/^.w3-indie-flower {$/;"	function	line:15
+.display input	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/Assets/style.css	/^.display input {$/;"	function	line:22
+.operators	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/Assets/style.css	/^.operators {$/;"	function	line:34
+.operators input	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/Assets/style.css	/^.operators input {$/;"	function	line:40
+#result	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/Assets/style.css	/^#result {$/;"	function	line:49
+#copyright	/Users/manon/Documents/Learn_programming/FreeCodeCamp/Front_End/Advanced_Projects/calculator/Assets/style.css	/^#copyright {$/;"	function	line:53

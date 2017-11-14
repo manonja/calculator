@@ -1,0 +1,56 @@
+.w3-container {
+  max-width: 350px;
+  margin-top: 8%;
+  margin-left:35%;
+  height: 460px;
+  position: relative;
+  border-radius: 10px;
+  content: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+.w3-indie-flower {
+  font-family: 'Indie Flower', cursive;
+  font-size: 25px;
+  font-weight: bolder;
+
+}
+
+.display input {
+  border:none;
+  position: relative;
+  margin-left: 10%;
+  margin-top: 10%;
+  height: 45px;
+  color: black;
+  font-size: 20px;
+  text-align: right;
+  width:250px;
+}
+
+.operators {
+  position: relative;
+  margin-top:5%;
+  margin-left:8%;
+}
+
+.operators input {
+  width: 50px;
+  height: 40px;
+  border: none;
+  cursor: pointer;
+  border-top: 2px solid transparent;
+  font-size: 17px;
+}
+
+#result {
+  width: 105px;
+}
+
+#copyright {
+  font-size: 15px !important;
+  text-align: center !important;
+}

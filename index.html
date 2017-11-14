@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>JavaScript Calculator</title>
+
+    <script
+      src="http://code.jquery.com/jquery-3.2.1.slim.min.js"
+      integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g="
+      crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src=""></script>
+
+
+    <script type="text/javascript" src="Assets/index.js"></script>
+    <link type="text/css" rel="stylesheet" href="Assets/style.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+
+
+  </head>
+
+  <body class= "w3-light-gray">
+
+    <div class="w3-container w3-red">
+      <h3 class="w3-text-lime w3-padding-small w3-indie-flower">FreeCodeCamp Calculator</h3>
+
+      <div class="display">
+        <input class="w3-input w3-border w3-round w3-grey" type="text" disabled id="calc">
+      </div>
+
+      <div class="operators w3-padding-large">
+        <p>
+          <input type="button" class="w3-button w3-circle w3-pink" id="clear-all" onClick="clearAll('val')" value="AC">
+          <input type="button" class="w3-button w3-circle w3-pink" id="clear" onClick="clearEntry('val')" value="CE">
+          <input type="button" class="w3-button w3-circle w3-grey" id="keys" onClick="clicked(' % ')" value="%">
+          <input type="button" class="w3-button w3-circle w3-grey" id="keys" onClick="clicked(' / ')" value="/">
+        </p>
+        <p>
+          <input type="button" class="w3-button w3-circle w3-dark-grey" id="keys" onClick="clicked('7')" value="7">
+          <input type="button" class="w3-button w3-circle w3-dark-grey" id="keys" onClick="clicked('8')" value="8">
+          <input type="button" class="w3-button w3-circle w3-dark-grey" id="keys" onClick="clicked('9')" value ="9">
+          <input type="button" class="w3-button w3-circle w3-grey" id="keys" onClick="clicked(' * ')" value="*">
+        </p>
+        <p>
+          <input type="button" class="w3-button w3-circle w3-dark-grey" id="keys" onClick="clicked('4')" value="4">
+          <input type="button" class="w3-button w3-circle w3-dark-grey" id="keys" onClick="clicked('5')" value="5">
+          <input type="button" class="w3-button w3-circle w3-dark-grey" id="keys" onClick="clicked('6')" value="6">
+          <input type="button" class="w3-button w3-circle w3-grey" id="keys" onClick="clicked(' - ')" value="-">
+        </p>
+        <p>
+          <input type="button" class="w3-button w3-circle w3-dark-grey" id="keys" onClick="clicked('1')" value="1">
+          <input type="button" class="w3-button w3-circle w3-dark-grey" id="keys" onClick="clicked('2')" value="2">
+          <input type="button" class="w3-button w3-circle w3-dark-grey" id="keys" onClick="clicked('3')" value="3">
+          <input type="button" class="w3-button w3-circle w3-grey" id="keys" onClick="clicked(' + ')" value="+">
+        </p>
+        <p>
+          <input type="button" class="w3-button w3-circle w3-dark-grey" id="keys" onClick="clicked('7')" value="0">
+          <input type="button" class="w3-button w3-circle w3-dark-grey" id="keys" onClick="clicked('.')" value=".">
+          <input type="button" class="w3-button w3-round-large w3-lime" id="result" onClick="showResult()" value="=">
+        </p>
+      </div>
+    </div>
+
+    <div class= "w3-container w3-text-dark-grey w3-indie-flower">
+      <p id="copyright"> Copyright © Manon Jacquin 2017. All Rights Reserved. </p>
+    </div>
+
+    <script type="text/javascript" src="Assets/index.js"></script>
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+  </body>
+</html>
